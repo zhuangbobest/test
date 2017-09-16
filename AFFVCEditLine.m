@@ -6,6 +6,10 @@
 //  Copyright © 2015年 Anyfish. All rights reserved.
 //
 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 #import "AFFVCEditLine.h"
 
 typedef void(^lineBlock)(BOOL isCancel, NSString *text);
